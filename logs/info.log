@@ -1,0 +1,21 @@
+2025-02-21T18:56:02.509+0800	[34mINFO[0m	engine/engine.go:407	初始化数据库连接
+2025-02-21T18:56:02.552+0800	[34mINFO[0m	engine/engine.go:407	初始化配置
+2025-02-21T18:56:13.538+0800	[34mINFO[0m	engine/engine.go:407	初始化导航栏按钮
+2025-02-21T18:56:13.540+0800	[34mINFO[0m	engine/engine.go:407	初始化插件
+2025-02-21T18:56:13.542+0800	[34mINFO[0m	engine/engine.go:407	初始化成功🍺🍺
+2025-02-21T18:56:37.595+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401353975940001", "statuscode": "200", "method": "GET", "path": "/admin/login"}
+2025-02-21T18:56:38.034+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401353977650002", "statuscode": "200", "method": "GET", "path": "/admin/assets/login/dist/all.min.js"}
+2025-02-21T18:56:38.035+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401353977650003", "statuscode": "200", "method": "GET", "path": "/admin/assets/login/dist/all.min.css"}
+2025-02-21T18:56:52.044+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354114050004", "statuscode": "200", "method": "POST", "path": "/admin/signin"}
+2025-02-21T18:56:52.584+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354125820005", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/js/all.min.506636f003.js"}
+2025-02-21T18:56:52.584+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354125840006", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/img/avatar04.png"}
+2025-02-21T18:56:52.595+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354125840007", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/css/all.min.dd4b069ab5.css"}
+2025-02-21T18:56:52.601+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354125850008", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/js/form.min.4022a41f70.js"}
+2025-02-21T18:56:52.643+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354126380009", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/js/datatable.min.43c12443cf.js"}
+2025-02-21T18:56:52.671+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354126710010", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/js/treeview.min.3095cd8c12.js"}
+2025-02-21T18:56:52.671+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354126710011", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/js/tree.min.b68a8b6689.js"}
+2025-02-21T18:56:52.678+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354126770012", "statuscode": "200", "method": "GET", "path": "/admin/assets/chart.min.js"}
+2025-02-21T18:56:52.695+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354126940013", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/js/all_2.min.1cd3070239.js"}
+2025-02-21T18:56:53.225+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354132240014", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/fonts/fontawesome-webfont.woff2"}
+2025-02-21T18:56:53.438+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354134380015", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/css/fonts/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7g.ttf"}
+2025-02-21T18:56:53.727+0800	[34mINFO[0m	controller/handler.go:25	[GoAdmin] access log	{"traceID": "ac1f50011807217401354137270016", "statuscode": "200", "method": "GET", "path": "/admin/assets/dist/css/fonts/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdr.ttf"}
